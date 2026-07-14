@@ -3,6 +3,7 @@ import { discoverAll } from "./discovery/index.js";
 import { scoreAll } from "./matching/score.js";
 import { hasSeen, upsertMany } from "./storage/db.js";
 import { writeMarkdownDigest, sendEmailDigest } from "./notifications/digest.js";
+import { writeExcelDigest } from "./notifications/excelDigest.js";
 import { preferences } from "./config/preferences.js";
 import type { ApplicationRecord } from "./types.js";
 
@@ -51,7 +52,9 @@ async function main() {
 
   // === DIGEST ===
   const surface = scored.filter((s) => s.fitScore >= preferences.runtime.minFitScoreToSurface);
-  const path = await writeMarkdownDigest(surface);
+  const stamp = new Date().toISOString().replace(/[:.]/g, "-").slice(0, 16);
+  const path = await writeMarkdownDigest(surface, stamp);
+  await writeExcelDigest(surface, stamp);
   await sendEmailDigest(surface, path);
 
   console.log("[agent] done");

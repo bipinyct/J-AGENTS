@@ -10,9 +10,10 @@ GitHub Actions cron (09:00 & 19:00 IST)
         ▼
   1. Discover  →  Adzuna API (aggregates Indeed + other boards, India)
   2. Score     →  Claude scores fit + writes strengths/gaps + drafts cover letter
-  3. Digest    →  digests/YYYY-MM-DD.md committed to repo
+  3. Digest    →  digests/YYYY-MM-DD.md + .xlsx committed to repo
                   + optional email via Resend
-  4. You       →  Open digest, read 🟢 top matches, copy cover letter, click Apply
+  4. You       →  Open the .xlsx for scanning/copy-paste, or the .md for reading,
+                  read 🟢 top matches, copy cover letter, click Apply
 ```
 
 **Why hybrid?** Full-auto scraping+submitting to LinkedIn/Naukri/etc. triggers bot detection and can get accounts banned or blocked by CAPTCHAs, and most boards' ToS prohibit it outright. Semi-auto (agent finds + drafts, you review and tap Apply) gets nearly all the speed benefit with zero account risk and better response rates on tailored applications.
@@ -46,7 +47,7 @@ If you skip this, you still get the full digest as a Markdown file in `digests/`
 npm run run:agent
 ```
 
-You should see a new file `digests/<timestamp>.md`. Open it — this is what you'll get twice daily.
+You should see two new files: `digests/<timestamp>.md` and `digests/<timestamp>.xlsx` — this is what you'll get twice daily.
 
 ### 5. Deploy to GitHub
 
@@ -63,7 +64,11 @@ Push to a GitHub repo, then in Settings → Secrets and variables → Actions:
 - `DIGEST_FROM_EMAIL` = `onboarding@resend.dev`
 - `AI_MODEL` = `claude-sonnet-4-5` (optional, defaults to this)
 
-Cron fires at 09:00 and 19:00 IST. The workflow commits `digests/*.md` and updated `data/applications.json` back to the repo automatically.
+Cron fires at 09:00 and 19:00 IST. The workflow commits `digests/*.md`, `digests/*.xlsx`, and updated `data/applications.json` back to the repo automatically.
+
+## Excel digest
+
+Alongside the Markdown digest, every run also writes `digests/<timestamp>.xlsx` — one row per job, with dedicated columns (Fit Score, Title, Company, Location, Board, Posted, Why It Fits, Strengths, Gaps, Cover Letter, Apply Link), sorted by fit score descending. The Fit Score column is color-coded (green ≥80, yellow ≥65, orange ≥45, gray below), long text columns wrap instead of truncating, and the Apply Link column is a clickable hyperlink. Built for scanning many jobs at once and copy-pasting cells — open it in Excel, Google Sheets, or Numbers.
 
 ## What lives where
 
@@ -74,9 +79,10 @@ Cron fires at 09:00 and 19:00 IST. The workflow commits `digests/*.md` and updat
 | `src/discovery/adzuna.ts` | Adzuna API client |
 | `src/matching/score.ts` | Claude scoring + cover letter |
 | `src/notifications/digest.ts` | Markdown + email digest |
+| `src/notifications/excelDigest.ts` | Formatted .xlsx digest |
 | `src/storage/db.ts` | JSON state (dedupe seen jobs) |
 | `data/applications.json` | Every job ever seen |
-| `digests/*.md` | Every run's output — this is your inbox |
+| `digests/*.md` / `digests/*.xlsx` | Every run's output — this is your inbox |
 
 ## Tuning
 

@@ -46,9 +46,8 @@ ${job.coverLetter ?? ""}
 `;
 }
 
-export async function writeMarkdownDigest(scored: ScoredJob[]): Promise<string> {
+export async function writeMarkdownDigest(scored: ScoredJob[], stamp: string): Promise<string> {
   const now = new Date();
-  const stamp = now.toISOString().replace(/[:.]/g, "-").slice(0, 16);
   const dir = "digests";
   await mkdir(dir, { recursive: true });
   const path = `${dir}/${stamp}.md`;
