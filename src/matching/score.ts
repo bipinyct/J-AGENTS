@@ -28,7 +28,11 @@ Skills:
   Languages: ${profile.skills.languages.join(", ")}
   Automation: ${profile.skills.automation.join(", ")}
   API/Load: ${profile.skills.api.join(", ")}
+  Backend: ${profile.skills.backend.join(", ")}
+  AI & Modern QA: ${profile.skills.aiTools.join(", ")}
   CI/CD: ${profile.skills.cicd.join(", ")}
+  Process: ${profile.skills.process.join(", ")}
+  Databases: ${profile.skills.databases.join(", ")}
 Strengths: ${profile.strengths.join(" | ")}
 
 TARGET ROLES: ${preferences.targetTitles.join(", ")}

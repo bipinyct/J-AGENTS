@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "private": true,
   "type": "module",
-  "description": "Job discovery + tailoring agent for Mohit — twice daily digest with 1-click apply links",
+  "description": "Job discovery + tailoring agent for Bipin — twice daily digest with 1-click apply links",
   "engines": {
     "node": ">=20"
   },

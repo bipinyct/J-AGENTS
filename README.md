@@ -1,6 +1,6 @@
 # J-AGENTS — Job discovery + tailoring agent
 
-Twice-daily agent that finds SDET / QA Automation / SDE-1 jobs matching Mohit's profile, scores them with Claude, drafts a tailored cover letter, and delivers a digest with 1-click apply links.
+Twice-daily agent that finds SDET / QA Automation / SDE-1 jobs matching Bipin's profile, scores them with Claude, drafts a tailored cover letter, and delivers a digest with 1-click apply links.
 
 ## Flow
 
@@ -60,7 +60,7 @@ Push to a GitHub repo, then in Settings → Secrets and variables → Actions:
 - `RESEND_API_KEY` (if using email)
 
 **Variables:**
-- `DIGEST_TO_EMAIL` = `mohitnandan81825@gmail.com`
+- `DIGEST_TO_EMAIL` = `bipinkainbox@gmail.com`
 - `DIGEST_FROM_EMAIL` = `onboarding@resend.dev`
 
 Cron fires at 09:00 and 19:00 IST. The workflow commits `digests/*.md` and updated `data/applications.json` back to the repo automatically.
