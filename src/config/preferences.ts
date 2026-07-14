@@ -67,10 +67,6 @@ export const preferences = {
     negotiable: true,
   },
 
-  // Fill this in if you want the application-autofill userscript (autofill/apply-autofill.user.js)
-  // to answer "notice period" questions on your behalf, e.g. "30 days", "Immediate".
-  noticePeriod: "",
-
   experienceRange: {
     minYears: 0,
     maxYears: 4,

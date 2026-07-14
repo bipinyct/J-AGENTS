@@ -1,23 +1,13 @@
 import "dotenv/config";
-import { mkdir, writeFile } from "node:fs/promises";
 import { discoverAll } from "./discovery/index.js";
 import { scoreAll } from "./matching/score.js";
 import { hasSeen, upsertMany } from "./storage/db.js";
 import { writeMarkdownDigest, sendEmailDigest } from "./notifications/digest.js";
-import { generateAutofillScript } from "./tools/autofillScript.js";
 import { preferences } from "./config/preferences.js";
 import type { ApplicationRecord } from "./types.js";
 
-async function writeAutofillScript(): Promise<void> {
-  await mkdir("autofill", { recursive: true });
-  await writeFile("autofill/apply-autofill.user.js", generateAutofillScript(), "utf8");
-  console.log("[agent] wrote autofill/apply-autofill.user.js");
-}
-
 async function main() {
   console.log(`[agent] starting`);
-
-  await writeAutofillScript();
 
   // === DISCOVER ===
   const rawJobs = await discoverAll();
