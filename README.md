@@ -71,10 +71,13 @@ Cron fires at 09:00 and 19:00 IST. The workflow commits `digests/*.md`, updated 
 
 Every run regenerates `autofill/apply-autofill.user.js` — a userscript built from your `profile.ts` + `preferences.ts`. It **never submits anything**; it just prefills boilerplate fields (name, email, phone, LinkedIn/GitHub, current company/title, years of experience, current/expected CTC, notice period, education) on whatever application page you're on, via a small "⚡ Autofill" button it adds to the page. You still review every field and click Submit yourself.
 
-**Install once:**
-1. Install [Violentmonkey](https://violentmonkey.github.io/) — free, open-source userscript manager for Chrome/Edge/Brave/Firefox (Tampermonkey works too, but is a paid app on Safari — Violentmonkey has no free version for Safari either, so Safari users should ask before adopting this)
-2. Open `https://raw.githubusercontent.com/bipinyct/J-AGENTS/main/autofill/apply-autofill.user.js` — Violentmonkey will offer to install it
-3. Because the script has `@updateURL`/`@downloadURL` headers, Violentmonkey will periodically pull the latest version as your profile changes — no manual reinstall needed
+**Install once (Chrome/Edge/Brave):**
+1. Install [Tampermonkey](https://www.tampermonkey.net/) from the Chrome Web Store — free on Chrome (only Safari requires a paid App Store version)
+2. Since Chrome 138, Manifest V3 requires an extra one-time toggle for userscript managers to actually run scripts: go to `chrome://extensions` → find Tampermonkey → **Details** → enable **"Allow User Scripts"** (or enable Developer Mode at the top of that page instead, which has the same effect)
+3. Open `https://raw.githubusercontent.com/bipinyct/J-AGENTS/main/autofill/apply-autofill.user.js` — Tampermonkey will offer to install it
+4. Because the script has `@updateURL`/`@downloadURL` headers, Tampermonkey will periodically pull the latest version as your profile changes — no manual reinstall needed
+
+(Firefox doesn't have the MV3 restriction above, so step 2 isn't needed there.)
 
 Fields it can't know per-job (like "why do you want to work here") are left blank — use the tailored cover letter already in the digest for those.
 
