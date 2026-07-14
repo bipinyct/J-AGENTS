@@ -1,4 +1,573 @@
 {
   "version": 1,
-  "records": {}
+  "records": {
+    "adzuna:5799811316": {
+      "jobId": "adzuna:5799811316",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5799811316?utm_medium=api&utm_source=9375376c",
+      "title": "AI Engineer",
+      "company": "GTMfund",
+      "board": "indeed"
+    },
+    "adzuna:5798710309": {
+      "jobId": "adzuna:5798710309",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798710309?utm_medium=api&utm_source=9375376c",
+      "title": "Lead SDET/QA Test Automation Engineer â AI Platforms (Agentic AI)",
+      "company": "Recruiting Bond",
+      "board": "indeed"
+    },
+    "adzuna:5798269972": {
+      "jobId": "adzuna:5798269972",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798269972?utm_medium=api&utm_source=9375376c",
+      "title": "Senior SDET",
+      "company": "Sprinklr",
+      "board": "indeed"
+    },
+    "adzuna:5798268477": {
+      "jobId": "adzuna:5798268477",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798268477?utm_medium=api&utm_source=9375376c",
+      "title": "Automation Test Engineer",
+      "company": "Cubic",
+      "board": "indeed"
+    },
+    "adzuna:5798246929": {
+      "jobId": "adzuna:5798246929",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798246929?utm_medium=api&utm_source=9375376c",
+      "title": "IN_Manager_Playwright SDET/Lead_GCC_Advisory_Bangalore",
+      "company": "PricewaterhouseCoopers",
+      "board": "indeed"
+    },
+    "adzuna:5797640265": {
+      "jobId": "adzuna:5797640265",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5797640265?utm_medium=api&utm_source=9375376c",
+      "title": "Digital Product Manager",
+      "company": "U.S. Bank",
+      "board": "indeed"
+    },
+    "adzuna:5797384837": {
+      "jobId": "adzuna:5797384837",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5797384837?utm_medium=api&utm_source=9375376c",
+      "title": "Lead Software Development Engineer in Test",
+      "company": "DTCC",
+      "board": "indeed"
+    },
+    "adzuna:5797384183": {
+      "jobId": "adzuna:5797384183",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5797384183?utm_medium=api&utm_source=9375376c",
+      "title": "Test Analyst (SDET) - Automation",
+      "company": "Hexaware",
+      "board": "indeed"
+    },
+    "adzuna:5797382058": {
+      "jobId": "adzuna:5797382058",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5797382058?utm_medium=api&utm_source=9375376c",
+      "title": "Test Analyst (SDET) - Mobility",
+      "company": "Hexaware",
+      "board": "indeed"
+    },
+    "adzuna:5797379497": {
+      "jobId": "adzuna:5797379497",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5797379497?utm_medium=api&utm_source=9375376c",
+      "title": "Software Development Engineer in Test",
+      "company": "DTCC",
+      "board": "indeed"
+    },
+    "adzuna:5797370283": {
+      "jobId": "adzuna:5797370283",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5797370283?utm_medium=api&utm_source=9375376c",
+      "title": "Senior Software Development Engineer Test",
+      "company": "Weekday",
+      "board": "indeed"
+    },
+    "adzuna:5797370159": {
+      "jobId": "adzuna:5797370159",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5797370159?utm_medium=api&utm_source=9375376c",
+      "title": "Quality Automation Engineer (SDET) - Intermediate",
+      "company": "Equifax",
+      "board": "indeed"
+    },
+    "adzuna:5796793875": {
+      "jobId": "adzuna:5796793875",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796793875?utm_medium=api&utm_source=9375376c",
+      "title": "AGENTIC AI",
+      "company": "Virtusa",
+      "board": "indeed"
+    },
+    "adzuna:5796582425": {
+      "jobId": "adzuna:5796582425",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796582425?utm_medium=api&utm_source=9375376c",
+      "title": "Senior Lead Engineer",
+      "company": "Guardian Life",
+      "board": "indeed"
+    },
+    "adzuna:5796417455": {
+      "jobId": "adzuna:5796417455",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796417455?utm_medium=api&utm_source=9375376c",
+      "title": "SDET IV- Pac OS",
+      "company": "Panasonic",
+      "board": "indeed"
+    },
+    "adzuna:5796417125": {
+      "jobId": "adzuna:5796417125",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796417125?utm_medium=api&utm_source=9375376c",
+      "title": "Senior SDET",
+      "company": "CyberArk",
+      "board": "indeed"
+    },
+    "adzuna:5796414131": {
+      "jobId": "adzuna:5796414131",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796414131?utm_medium=api&utm_source=9375376c",
+      "title": "SQA Engineer",
+      "company": "Align Technology",
+      "board": "indeed"
+    },
+    "adzuna:5796414134": {
+      "jobId": "adzuna:5796414134",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796414134?utm_medium=api&utm_source=9375376c",
+      "title": "SQA Engineer, System Integration",
+      "company": "Align Technology",
+      "board": "indeed"
+    },
+    "adzuna:5796410122": {
+      "jobId": "adzuna:5796410122",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796410122?utm_medium=api&utm_source=9375376c",
+      "title": "Lead SDET",
+      "company": "Broadridge",
+      "board": "indeed"
+    },
+    "adzuna:5796410136": {
+      "jobId": "adzuna:5796410136",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796410136?utm_medium=api&utm_source=9375376c",
+      "title": "Sdet Automation Test Engineer",
+      "company": "Broadridge",
+      "board": "indeed"
+    },
+    "adzuna:5796410071": {
+      "jobId": "adzuna:5796410071",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796410071?utm_medium=api&utm_source=9375376c",
+      "title": "SDET Lead",
+      "company": "Broadridge",
+      "board": "indeed"
+    },
+    "adzuna:5796406583": {
+      "jobId": "adzuna:5796406583",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796406583?utm_medium=api&utm_source=9375376c",
+      "title": "Software Developer",
+      "company": "Fujitsu",
+      "board": "indeed"
+    },
+    "adzuna:5788791388": {
+      "jobId": "adzuna:5788791388",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5788791388?utm_medium=api&utm_source=9375376c",
+      "title": "IND Associate Quality Engineer",
+      "company": "The Hartford",
+      "board": "indeed"
+    },
+    "adzuna:5787144256": {
+      "jobId": "adzuna:5787144256",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5787144256?utm_medium=api&utm_source=9375376c",
+      "title": "SDET/ Automation Engineer",
+      "company": "Recruit CRM",
+      "board": "indeed"
+    },
+    "adzuna:5786647075": {
+      "jobId": "adzuna:5786647075",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5786647075?utm_medium=api&utm_source=9375376c",
+      "title": "Lead SDET Engineer",
+      "company": "Gradera AI Technologies",
+      "board": "indeed"
+    },
+    "adzuna:5798271745": {
+      "jobId": "adzuna:5798271745",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798271745?utm_medium=api&utm_source=9375376c",
+      "title": "Software Engineering Manager",
+      "company": "Medtronic",
+      "board": "indeed"
+    },
+    "adzuna:5798265446": {
+      "jobId": "adzuna:5798265446",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798265446?utm_medium=api&utm_source=9375376c",
+      "title": "Renewals Advisor",
+      "company": "SmartBear",
+      "board": "indeed"
+    },
+    "adzuna:5797636280": {
+      "jobId": "adzuna:5797636280",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5797636280?utm_medium=api&utm_source=9375376c",
+      "title": "Senior Integration Software Engineer",
+      "company": "Chevron Corporation",
+      "board": "indeed"
+    },
+    "adzuna:5796414158": {
+      "jobId": "adzuna:5796414158",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796414158?utm_medium=api&utm_source=9375376c",
+      "title": "Sr Software Developer Engineer in Test",
+      "company": "Align Technology",
+      "board": "indeed"
+    },
+    "adzuna:5796414122": {
+      "jobId": "adzuna:5796414122",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796414122?utm_medium=api&utm_source=9375376c",
+      "title": "SQA Engineer, 3D Software",
+      "company": "Align Technology",
+      "board": "indeed"
+    },
+    "adzuna:5796410276": {
+      "jobId": "adzuna:5796410276",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796410276?utm_medium=api&utm_source=9375376c",
+      "title": "Software Development Engineer in Test",
+      "company": "Security and Intelligence Services",
+      "board": "indeed"
+    },
+    "adzuna:5796212264": {
+      "jobId": "adzuna:5796212264",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796212264?utm_medium=api&utm_source=9375376c",
+      "title": "Software Technologist I",
+      "company": "Philips",
+      "board": "indeed"
+    },
+    "adzuna:5796203393": {
+      "jobId": "adzuna:5796203393",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796203393?utm_medium=api&utm_source=9375376c",
+      "title": "Senior Software Development Test Engineer - AI",
+      "company": "Tekion",
+      "board": "indeed"
+    },
+    "adzuna:5796199210": {
+      "jobId": "adzuna:5796199210",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796199210?utm_medium=api&utm_source=9375376c",
+      "title": "Senior Lead Engineer",
+      "company": "Guardian Life Insurance Company",
+      "board": "indeed"
+    },
+    "adzuna:5796150882": {
+      "jobId": "adzuna:5796150882",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796150882?utm_medium=api&utm_source=9375376c",
+      "title": "Senior Software Development Engineer in Test",
+      "company": "IND-Medtronic MiniMed India",
+      "board": "indeed"
+    },
+    "adzuna:5796143400": {
+      "jobId": "adzuna:5796143400",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796143400?utm_medium=api&utm_source=9375376c",
+      "title": "Senior Software Development Test Engineer",
+      "company": "Tekion",
+      "board": "indeed"
+    },
+    "adzuna:5794744184": {
+      "jobId": "adzuna:5794744184",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5794744184?utm_medium=api&utm_source=9375376c",
+      "title": "Software Development Engineer in Test",
+      "company": "Barclays",
+      "board": "indeed"
+    },
+    "adzuna:5794667832": {
+      "jobId": "adzuna:5794667832",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5794667832?utm_medium=api&utm_source=9375376c",
+      "title": "Software Development Engineer in Test",
+      "company": "Ciroos",
+      "board": "indeed"
+    },
+    "adzuna:5800146161": {
+      "jobId": "adzuna:5800146161",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5800146161?utm_medium=api&utm_source=9375376c",
+      "title": "Automation Test Engineer",
+      "company": "Fulcrum Digital",
+      "board": "indeed"
+    },
+    "adzuna:5799922228": {
+      "jobId": "adzuna:5799922228",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5799922228?utm_medium=api&utm_source=9375376c",
+      "title": "Automation Tester",
+      "company": "Capco",
+      "board": "indeed"
+    },
+    "adzuna:5799158611": {
+      "jobId": "adzuna:5799158611",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5799158611?utm_medium=api&utm_source=9375376c",
+      "title": "QA Automation Lead - Senior Manager",
+      "company": "State Street",
+      "board": "indeed"
+    },
+    "adzuna:5798989398": {
+      "jobId": "adzuna:5798989398",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798989398?utm_medium=api&utm_source=9375376c",
+      "title": "Quality Engineer - Automated Testing",
+      "company": "Trigent Software Private Limited",
+      "board": "indeed"
+    },
+    "adzuna:5798419213": {
+      "jobId": "adzuna:5798419213",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798419213?utm_medium=api&utm_source=9375376c",
+      "title": "Test Automation Specialist",
+      "company": "LTM",
+      "board": "indeed"
+    },
+    "adzuna:5798283883": {
+      "jobId": "adzuna:5798283883",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798283883?utm_medium=api&utm_source=9375376c",
+      "title": "Mainframe QA",
+      "company": "Virtusa",
+      "board": "indeed"
+    },
+    "adzuna:5798277829": {
+      "jobId": "adzuna:5798277829",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798277829?utm_medium=api&utm_source=9375376c",
+      "title": "IN_Associate_QA Automation_GCC_Advisory_Bangalore",
+      "company": "PricewaterhouseCoopers",
+      "board": "indeed"
+    },
+    "adzuna:5798267556": {
+      "jobId": "adzuna:5798267556",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798267556?utm_medium=api&utm_source=9375376c",
+      "title": "Automation Test Engineer (Selenium, Cucumber, Banking Domain)- 3 to 6 Years",
+      "company": "FIS Capital Markets",
+      "board": "indeed"
+    },
+    "adzuna:5798266832": {
+      "jobId": "adzuna:5798266832",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798266832?utm_medium=api&utm_source=9375376c",
+      "title": "2026-D-0049 Senior Test Engineer",
+      "company": "Invidi Technologies Corporation",
+      "board": "indeed"
+    },
+    "adzuna:5798265447": {
+      "jobId": "adzuna:5798265447",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798265447?utm_medium=api&utm_source=9375376c",
+      "title": "Xtrackers SEA - Order C/R (Sr. Tech Analyst, Automation), AVP",
+      "company": "Deutsche Bank",
+      "board": "indeed"
+    },
+    "adzuna:5798265194": {
+      "jobId": "adzuna:5798265194",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798265194?utm_medium=api&utm_source=9375376c",
+      "title": "Senior QA Engineer",
+      "company": "Konovo",
+      "board": "indeed"
+    },
+    "adzuna:5798265041": {
+      "jobId": "adzuna:5798265041",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798265041?utm_medium=api&utm_source=9375376c",
+      "title": "QA Automation Engineer II",
+      "company": "Upland Software",
+      "board": "indeed"
+    },
+    "adzuna:5798245057": {
+      "jobId": "adzuna:5798245057",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798245057?utm_medium=api&utm_source=9375376c",
+      "title": "IN_Senior Associate_Funtional & Automation Cloud Tester_Digital Integration_Advisory_Kolkata",
+      "company": "PricewaterhouseCoopers",
+      "board": "indeed"
+    },
+    "adzuna:5798241861": {
+      "jobId": "adzuna:5798241861",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798241861?utm_medium=api&utm_source=9375376c",
+      "title": "IN_Associate_Automation_Digital Integration_Advisory_Kolkata",
+      "company": "PricewaterhouseCoopers",
+      "board": "indeed"
+    },
+    "adzuna:5797637615": {
+      "jobId": "adzuna:5797637615",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5797637615?utm_medium=api&utm_source=9375376c",
+      "title": "Senior Software Engineer (Test)",
+      "company": "GE HealthCare",
+      "board": "indeed"
+    },
+    "adzuna:5797637070": {
+      "jobId": "adzuna:5797637070",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5797637070?utm_medium=api&utm_source=9375376c",
+      "title": "Software Engineer",
+      "company": "Cognizant",
+      "board": "indeed"
+    },
+    "adzuna:5797621338": {
+      "jobId": "adzuna:5797621338",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5797621338?utm_medium=api&utm_source=9375376c",
+      "title": "Senior Engineer - Global Test Automation Framework",
+      "company": "Magna International, Inc",
+      "board": "indeed"
+    },
+    "adzuna:5797621350": {
+      "jobId": "adzuna:5797621350",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5797621350?utm_medium=api&utm_source=9375376c",
+      "title": "AI Developer, RPA & Testing",
+      "company": "Magna International, Inc",
+      "board": "indeed"
+    },
+    "adzuna:5797507309": {
+      "jobId": "adzuna:5797507309",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5797507309?utm_medium=api&utm_source=9375376c",
+      "title": "Test Automation",
+      "company": "Vedams Software Solutions",
+      "board": "indeed"
+    },
+    "adzuna:5797507278": {
+      "jobId": "adzuna:5797507278",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5797507278?utm_medium=api&utm_source=9375376c",
+      "title": "Test Automation (in Storage domain)",
+      "company": "Vedams Software Solutions",
+      "board": "indeed"
+    },
+    "adzuna:5800149578": {
+      "jobId": "adzuna:5800149578",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5800149578?utm_medium=api&utm_source=9375376c",
+      "title": "Senior QA Automation Engineer",
+      "company": "Distinction Dev",
+      "board": "indeed"
+    },
+    "adzuna:5799802212": {
+      "jobId": "adzuna:5799802212",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5799802212?utm_medium=api&utm_source=9375376c",
+      "title": "QA Automation Engineer (Python)",
+      "company": "Firstwave Technology Pvt Ltd",
+      "board": "indeed"
+    },
+    "adzuna:5799339014": {
+      "jobId": "adzuna:5799339014",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5799339014?utm_medium=api&utm_source=9375376c",
+      "title": "Remote: Rectuiter for IT consulting firm (UK shift) serving US and India clients",
+      "company": "TekPioneers - A TekGence Company",
+      "board": "indeed"
+    },
+    "adzuna:5798276503": {
+      "jobId": "adzuna:5798276503",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798276503?utm_medium=api&utm_source=9375376c",
+      "title": "TOSCA QA Automation Engineer - Senior Associate",
+      "company": "State Street",
+      "board": "indeed"
+    },
+    "adzuna:5798271886": {
+      "jobId": "adzuna:5798271886",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798271886?utm_medium=api&utm_source=9375376c",
+      "title": "IN_Senior Associate_Senior QA Automation_GCC_Advisory_Bangalore",
+      "company": "PricewaterhouseCoopers",
+      "board": "indeed"
+    },
+    "adzuna:5798263826": {
+      "jobId": "adzuna:5798263826",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798263826?utm_medium=api&utm_source=9375376c",
+      "title": "Senior Engineer - (Oracle RPAS QA & Automation Engineer)",
+      "company": "TJX Global Capability Center",
+      "board": "indeed"
+    },
+    "adzuna:5798255441": {
+      "jobId": "adzuna:5798255441",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5798255441?utm_medium=api&utm_source=9375376c",
+      "title": "QA Engineer",
+      "company": "Dedalus Group",
+      "board": "indeed"
+    },
+    "adzuna:5797508813": {
+      "jobId": "adzuna:5797508813",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5797508813?utm_medium=api&utm_source=9375376c",
+      "title": "Quality Assurance Architect (C#, Selenium, SQL)",
+      "company": "Simba Technologies",
+      "board": "indeed"
+    },
+    "adzuna:5797386663": {
+      "jobId": "adzuna:5797386663",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5797386663?utm_medium=api&utm_source=9375376c",
+      "title": "QA Automation Engineer",
+      "company": "Finastra Technology",
+      "board": "indeed"
+    },
+    "adzuna:5797379441": {
+      "jobId": "adzuna:5797379441",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5797379441?utm_medium=api&utm_source=9375376c",
+      "title": "Test Automation Engineer",
+      "company": "Accenture",
+      "board": "indeed"
+    },
+    "adzuna:5797366205": {
+      "jobId": "adzuna:5797366205",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5797366205?utm_medium=api&utm_source=9375376c",
+      "title": "Senior Engineer-QA (Robot framework)",
+      "company": "Carrier Corporation",
+      "board": "indeed"
+    },
+    "adzuna:5796971972": {
+      "jobId": "adzuna:5796971972",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796971972?utm_medium=api&utm_source=9375376c",
+      "title": "CONFIGURATOR SOLUTION ARCHITECT - QUALITY",
+      "company": "ABB",
+      "board": "indeed"
+    },
+    "adzuna:5796417470": {
+      "jobId": "adzuna:5796417470",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5796417470?utm_medium=api&utm_source=9375376c",
+      "title": "Qa Automation Testing Engineer",
+      "company": "Neudesic Technologies",
+      "board": "indeed"
+    }
+  }
 }
