@@ -696,6 +696,36 @@
       "title": "QA Automation Engineer",
       "company": "Aumni Techworks",
       "board": "indeed"
+    },
+    "adzuna:5801061465": {
+      "jobId": "adzuna:5801061465",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801061465?utm_medium=api&utm_source=9375376c",
+      "title": "C# Developer",
+      "company": "Arcot AI Solutions Private Limited",
+      "board": "indeed",
+      "fitScore": 25,
+      "reasoning": "This is a very poor fit. The role requires a C# Developer focused on plugin development, desktop software integrations, and core software engineering with C#. Bipin's profile is centered entirely on SDET/QA automation work with JavaScript/TypeScript, Playwright, API testing, and load testing—none of which align with C# desktop development. While he has backend experience with Node.js and some programming fundamentals, there's zero C# experience listed, and his work history shows no plugin development, desktop application work, or Windows-based software engineering. Additionally, the compensation is drastically misaligned: the role offers 3-5 LPA while Bipin currently earns 9 LPA and expects 12-13+ LPA. The seniority band (1-3 years) matches, but the functional role (pure software development vs. test automation) and technology stack are fundamentally different."
+    },
+    "adzuna:5801061473": {
+      "jobId": "adzuna:5801061473",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801061473?utm_medium=api&utm_source=9375376c",
+      "title": "Dot Net with Automation Testing",
+      "company": "Weekday AI",
+      "board": "indeed",
+      "fitScore": 22,
+      "reasoning": "This is a severe mismatch on multiple critical dimensions. The role explicitly requires 7–10 years of experience and pays 25–30 LPA accordingly, while Bipin has only 1.5 years of experience and currently earns 9 LPA. The position mandates strong .NET technology expertise as a core requirement, but Bipin's profile shows zero .NET experience—his stack is entirely JavaScript/TypeScript/Node.js based. While he has solid test automation fundamentals with Playwright and modern QA practices, the seniority gap (5.5+ years short) and complete absence of the primary technical requirement (.NET) make this a non-viable match. The automation testing methodology overlap provides minimal common ground, but cannot compensate for the fundamental misalignment in experience level and core technology stack."
+    },
+    "adzuna:5801026931": {
+      "jobId": "adzuna:5801026931",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801026931?utm_medium=api&utm_source=9375376c",
+      "title": "Rectuiter for IT consulting firm (IST Hours) serving US and India clients",
+      "company": "TekPioneers",
+      "board": "indeed",
+      "fitScore": 8,
+      "reasoning": "This is a fundamental role mismatch. The job posting is for a Recruiter position focused on sourcing and hiring technical talent for an IT consulting firm, not a technical engineering or testing role. Bipin is an SDET with 1.5 years of hands-on software testing, automation, and quality assurance experience. His entire skill set—Playwright, k6, API testing, CI/CD, automation frameworks—is built for software development and quality engineering, not talent acquisition or HR functions. While he may interact with recruiters as a candidate, he has no demonstrated experience in sourcing candidates, conducting recruitment calls, managing applicant pipelines, or closing hiring processes. This represents a complete career pivot from engineering to recruiting, with zero overlap in day-to-day responsibilities or required competencies."
     }
   }
 }
