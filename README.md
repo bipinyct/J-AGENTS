@@ -5,7 +5,7 @@ Twice-daily agent that finds SDET / QA Automation / SDE-1 jobs matching Bipin's 
 ## Flow
 
 ```
-GitHub Actions cron (09:00 & 19:00 IST)
+GitHub Actions cron (09:00 & 18:00 IST)
         │
         ▼
   1. Discover  →  Adzuna API (aggregates Indeed + other boards, India)
@@ -64,7 +64,7 @@ Push to a GitHub repo, then in Settings → Secrets and variables → Actions:
 - `DIGEST_FROM_EMAIL` = `onboarding@resend.dev`
 - `AI_MODEL` = `claude-sonnet-4-5` (optional, defaults to this)
 
-Cron fires at 09:00 and 19:00 IST. The workflow commits `digests/*.md`, `digests/*.xlsx`, and updated `data/applications.json` back to the repo automatically.
+Cron fires at 09:00 and 18:00 IST. The workflow commits `digests/*.md`, `digests/*.xlsx`, and updated `data/applications.json` back to the repo automatically.
 
 ## Excel digest
 
