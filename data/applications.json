@@ -1086,6 +1086,36 @@
       "board": "indeed",
       "fitScore": 72,
       "reasoning": "Bipin is a solid match for this Development Engineer 2 role at Comcast. With 1.5 years as an SDET, he brings relevant automation, backend development, and testing experience that aligns well with a mid-level development/engineering position at a tech-forward company. His tech stack—JavaScript/TypeScript, Node.js, Playwright, API testing, CI/CD, and modern observability tools (Grafana, Prometheus)—maps cleanly to the skills needed for building and testing media/entertainment platforms. The \"Development Engineer 2\" title suggests a level-2 IC role, which is appropriate for someone with 1.5 years looking to step up from SDET-1. His hands-on ownership of end-to-end QA, performance testing, and automation frameworks demonstrates engineering maturity beyond pure manual testing. The primary gap is limited pure SDE/feature development experience; the role may expect more production code contribution than pure test automation. Additionally, the job description is sparse, making it hard to assess domain-specific requirements (media streaming, video tech), but Comcast's scale and innovation focus align well with his modern QA and AI testing interests."
+    },
+    "adzuna:5802881947": {
+      "jobId": "adzuna:5802881947",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5802881947?utm_medium=api&utm_source=9375376c",
+      "title": "Sr. QA Engineer",
+      "company": "Wabtec",
+      "board": "indeed",
+      "fitScore": 45,
+      "reasoning": "Bipin has strong technical QA automation skills with Playwright, API testing, and CI/CD experience that align with core SDET responsibilities. However, the \"Sr. QA Engineer\" title at Wabtec typically implies 4-6 years of experience, while Bipin has only 1.5 years. The job description is sparse on technical requirements but emphasizes impact and growth, suggesting they want someone with proven track record at scale. Wabtec operates in rail/transportation systems, which may involve hardware-software integration, embedded systems, or safety-critical testing—areas not evidenced in Bipin's profile focused on web/API automation. The core QA automation skills are solid, but the seniority gap and potential domain mismatch (transportation/industrial vs. likely SaaS background) create significant risk. This is a borderline fit where Bipin could apply but should expect limited success without domain experience or senior-level accomplishments."
+    },
+    "adzuna:5802782326": {
+      "jobId": "adzuna:5802782326",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/land/ad/5802782326?se=yjGrTSOB8RG6zLerRpN0aw&utm_medium=api&utm_source=9375376c&v=10E68566BF9354ABD36260A64EF33C1FA29BC9FF",
+      "title": "QE Practice Manager",
+      "company": "Aspire Systems",
+      "board": "indeed",
+      "fitScore": 15,
+      "reasoning": "This is a severe seniority and scope mismatch. The QE Practice Manager role is a senior leadership position responsible for managing quality engineering practices, teams, and strategies across an organization—not a hands-on testing role. Bipin has 1.5 years of experience as an SDET-1, which qualifies him for individual contributor automation and testing roles, not management or practice leadership positions that typically require 8-12+ years of experience including several years in leadership. While his QA automation skills align with the quality engineering domain, the role requires people management, practice development, client engagement, and strategic oversight capabilities that are not evidenced in his profile. This is fundamentally the wrong job level and function type for his current career stage."
+    },
+    "adzuna:5801818710": {
+      "jobId": "adzuna:5801818710",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5801818710?utm_medium=api&utm_source=9375376c",
+      "title": "QA – Automation Engineer, AS",
+      "company": "Deutsche Bank",
+      "board": "indeed",
+      "fitScore": 78,
+      "reasoning": "Bipin is a solid match for Deutsche Bank's QA Automation Engineer role. With 1.5 years as an SDET-1, he brings hands-on experience in automation frameworks (Playwright with POM architecture), API testing (Postman, REST APIs), performance testing (k6, Grafana, Prometheus), and CI/CD workflows—all core competencies for automation QA roles at enterprise banks. His end-to-end ownership of QA cycles, regression automation that cut manual effort by 40%, and experience with feature flags/A/B testing demonstrates maturity beyond typical junior roles. The AS (Associate) level aligns well with his SDET-1 seniority. The job description is somewhat generic and doesn't specify deep domain requirements beyond \"engineering solutions\" and \"reliability,\" which his skillset addresses. Minor gaps include limited mention of banking domain exposure and the brief description prevents assessing niche technology stack requirements, but his technical breadth (backend, databases, monitoring tools) and process knowledge (SDLC/STLC) position him as a strong contender for this enterprise automation role."
     }
   }
 }
