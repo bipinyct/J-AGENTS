@@ -726,6 +726,356 @@
       "board": "indeed",
       "fitScore": 8,
       "reasoning": "This is a fundamental role mismatch. The job posting is for a Recruiter position focused on sourcing and hiring technical talent for an IT consulting firm, not a technical engineering or testing role. Bipin is an SDET with 1.5 years of hands-on software testing, automation, and quality assurance experience. His entire skill set—Playwright, k6, API testing, CI/CD, automation frameworks—is built for software development and quality engineering, not talent acquisition or HR functions. While he may interact with recruiters as a candidate, he has no demonstrated experience in sourcing candidates, conducting recruitment calls, managing applicant pipelines, or closing hiring processes. This represents a complete career pivot from engineering to recruiting, with zero overlap in day-to-day responsibilities or required competencies."
+    },
+    "adzuna:5801820863": {
+      "jobId": "adzuna:5801820863",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5801820863?utm_medium=api&utm_source=9375376c",
+      "title": "Junior Test Engineer, Functional",
+      "company": "ValGenesis",
+      "board": "indeed",
+      "fitScore": 72,
+      "reasoning": "Bipin is a solid match for this Junior Test Engineer role at ValGenesis. His 1.5 years as SDET-1 align well with the junior seniority level, and his core testing competencies—functional testing, automation (Playwright framework), API testing with Postman, SQL database validation, and end-to-end QA ownership across SDLC/STLC—directly map to typical junior QA responsibilities in a regulated environment. The life sciences/pharmaceutical domain at ValGenesis may expect domain-specific validation knowledge (CSV, 21 CFR Part 11, GxP) that isn't evident in his profile, and the job description is truncated so full requirements are unclear. However, his proven track record building scalable test frameworks, reducing regression effort by 40%, and validating feature flags demonstrates initiative and technical depth beyond typical junior roles. The salary expectation (12-13 LPA) is reasonable for this level in Chennai. Minor risks include potential domain knowledge gaps and whether the role emphasizes manual functional testing over his automation strengths."
+    },
+    "adzuna:5801820278": {
+      "jobId": "adzuna:5801820278",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801820278?utm_medium=api&utm_source=9375376c",
+      "title": "Senior SDET Engineer",
+      "company": "Jobgether",
+      "board": "indeed",
+      "fitScore": 58,
+      "reasoning": "Bipin is a solid technical match for the Senior SDET role with relevant automation expertise (Playwright framework, POM design, API testing, CI/CD), modern tooling (k6, Grafana, Prometheus), and full SDLC/STLC ownership. His skills align well with the JD's focus on automation frameworks, UI/API testing, and distributed systems quality. However, the major gap is seniority: he has only 1.5 years of experience applying for a \"Senior\" position that typically requires 4-6+ years. While his impact is strong (40% manual effort reduction, end-to-end QA ownership, performance testing), he lacks the depth of experience, architectural design expertise, mentorship track record, and strategic leadership expected at a senior level. The compensation expectation (12-13 LPA) also sits below typical senior band. This is a role he could grow into in 2-3 years, but right now he's better suited for SDET-2 or mid-level positions."
+    },
+    "adzuna:5801799987": {
+      "jobId": "adzuna:5801799987",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5801799987?utm_medium=api&utm_source=9375376c",
+      "title": "Contract SDET Engineer – Playwright & API Automation",
+      "company": "Jobgether",
+      "board": "indeed",
+      "fitScore": 92,
+      "reasoning": "This is an exceptional match. The job specifically requires a Contract SDET with Playwright & API Automation expertise, and Bipin's profile directly aligns: 1.5 years as SDET-1 with hands-on Playwright framework design (POM, fixtures, API validations), Postman/REST API testing, and backend validation experience. The role targets contract-based automation engineering for scalable solutions, which perfectly matches his track record of building a scalable Playwright framework that reduced manual regression by 40%. His tech stack (JavaScript/TypeScript, Node.js, GraphQL, SQL/MongoDB, CI/CD) supports modern QA initiatives. The seniority level (SDET/contract engineer) fits his 1.5 years perfectly—not too junior, not expecting senior-level experience. The only minor consideration is the contract nature of the role, but otherwise this is a near-perfect technical and functional alignment."
+    },
+    "adzuna:5801756233": {
+      "jobId": "adzuna:5801756233",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801756233?utm_medium=api&utm_source=9375376c",
+      "title": "Senior Engineer (India Office)",
+      "company": "Wesco",
+      "board": "indeed",
+      "fitScore": 58,
+      "reasoning": "Bipin has strong foundational SDET skills that align well with the technical requirements: automation frameworks (Playwright), API testing, load testing (k6, Grafana), CI/CD, and experience with big data tooling. His hands-on work across the SDLC, collaboration with development teams, and shift-left QA mindset match the job's emphasis on continuous integration and Agile environments. However, the \"Senior Engineer\" title and mention of \"large scale, big data, custom hardware multi-platform\" products suggest Wesco wants 3-5+ years of experience. With only 1.5 years, Bipin is underseasoned for a senior role, though his technical breadth and ownership of end-to-end QA cycles demonstrate maturity beyond his tenure. The role fit is solid but the seniority gap is meaningful."
+    },
+    "adzuna:5801676266": {
+      "jobId": "adzuna:5801676266",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5801676266?utm_medium=api&utm_source=9375376c",
+      "title": "Software Engineer in Test - Anywhere Cloud",
+      "company": "Cloudera",
+      "board": "indeed",
+      "fitScore": 78,
+      "reasoning": "Bipin is a solid match for this Software Engineer in Test role at Cloudera. The position targets associate-level engineers for DevOps & tool development focused on deployment pipeline automation, which aligns well with his 1.5 years as SDET-1. His core competencies—Playwright automation framework design, CI/CD experience, API testing, and observability tools (Grafana, Prometheus, Loki)—directly map to validating cloud deployment pipelines. The DevOps tooling aspect fits his backend knowledge (Node.js, Express.js) and infrastructure monitoring experience. The \"Anywhere Cloud\" focus on multi-cloud/hybrid environments benefits from his end-to-end QA ownership and systematic testing approach. Minor gaps include limited explicit DevOps platform experience (Kubernetes, Docker, Terraform) and the job description being truncated, but his automation maturity, modern QA practices, and cloud-adjacent skills position him competitively for this associate-level role."
+    },
+    "adzuna:5801668406": {
+      "jobId": "adzuna:5801668406",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801668406?utm_medium=api&utm_source=9375376c",
+      "title": "Senior Software Development Engineer in Test (SDET)",
+      "company": "Jobgether",
+      "board": "indeed",
+      "fitScore": 45,
+      "reasoning": "Bipin has strong technical alignment with the SDET role—modern automation skills (Playwright framework design), API testing, load testing with k6/Grafana, CI/CD, and full-cycle QA ownership. However, the position explicitly calls for a \"Senior SDET,\" and with only 1.5 years of experience, he falls significantly short of the seniority expectation. Senior SDET roles typically require 4-6+ years and demonstrated leadership in architecting enterprise-grade test infrastructure, mentoring teams, and driving org-wide quality strategies. While his achievements (40% reduction in regression effort, end-to-end test ownership, A/B testing validation) are impressive for an SDET-1, they don't yet match the scope expected of a senior individual contributor. The role fit is there functionally, but the experience gap is too substantial for a strong match."
+    },
+    "adzuna:5801660028": {
+      "jobId": "adzuna:5801660028",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801660028?utm_medium=api&utm_source=9375376c",
+      "title": "Senior Software Engineer in Test - Anywhere Cloud",
+      "company": "Cloudera",
+      "board": "indeed",
+      "fitScore": 38,
+      "reasoning": "This is a mid-senior level \"Senior SDET\" role at Cloudera focused on performance and scale testing for cloud infrastructure, while Bipin is an SDET-1 with only 1.5 years of experience. The seniority gap is significant—senior roles typically require 4-6+ years. However, there is strong technical alignment: Bipin has hands-on experience with performance testing (k6, Grafana, Prometheus, Loki for load/stress/spike/soak testing), automation frameworks (Playwright with POM), API testing, and modern DevOps tooling. His work on surfacing latency and infrastructure bottlenecks directly maps to the performance/scale focus mentioned in the JD. The role type is a perfect match (SDET), and his cloud-adjacent experience with monitoring stacks is relevant. The primary disqualifier is the experience level—he's 2-4 years short of what \"mid-senior\" typically demands, which dramatically limits his candidacy despite solid technical skills."
+    },
+    "adzuna:5801531517": {
+      "jobId": "adzuna:5801531517",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/land/ad/5801531517?se=_tqG8dWA8RG9Q6Xm1NH9UQ&utm_medium=api&utm_source=9375376c&v=CF0CE049D057807F353C43BB80EBAB0E4074A90E",
+      "title": "Quality Assurance Engineer",
+      "company": "FurrCrew",
+      "board": "indeed",
+      "fitScore": 72,
+      "reasoning": "Bipin is a solid match for this Senior QA Engineer role at FurrCrew. His 1.5 years as SDET-1 align well with the core responsibilities: manual and automated testing across web and mobile, end-to-end QA ownership through sprint cycles, API testing, and release sign-off. He brings strong automation skills (Playwright framework, POM, fixtures), API validation expertise (Postman, REST, SQL backend checks), and performance testing experience (k6, Grafana). The role emphasizes both manual test strategy and automation—Bipin has demonstrated both, cutting manual regression by 40% and owning QA across full sprint cycles. The slight gap is seniority: the title is \"Senior QA Engineer,\" which typically requires 3-4+ years, while Bipin has 1.5 years. However, the job description doesn't explicitly state a minimum YOE requirement, and his skill breadth (modern QA, CI/CD, feature flag testing, performance monitoring) is impressive for his tenure. His compensation ask (12-13 LPA from 9 LPA) is reasonable for a senior QA role in India. Overall, a strong technical fit with minor seniority risk."
+    },
+    "adzuna:5801377906": {
+      "jobId": "adzuna:5801377906",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801377906?utm_medium=api&utm_source=9375376c",
+      "title": "SDET- QA Automation ENgineer",
+      "company": "Weekday AI",
+      "board": "indeed",
+      "fitScore": 28,
+      "reasoning": "This is a severe experience mismatch. The JD explicitly requires 6 years of experience and offers INR 24-30 LPA compensation, while Bipin has only 1.5 years of experience and currently earns 9 LPA. The role demands strong Java and Selenium expertise for enterprise applications, but Bipin's stack is JavaScript/TypeScript with Playwright—a fundamentally different technology ecosystem. While the core SDET function aligns and Bipin demonstrates solid automation fundamentals (framework design, CI/CD, API testing, load testing), the seniority gap is insurmountable. The JD also emphasizes ETL/Data Validation experience which is absent from Bipin's profile. This appears to be a mid-to-senior level position seeking someone with 4x Bipin's experience and a different technical foundation, making it a poor fit despite role-type alignment."
+    },
+    "adzuna:5802317021": {
+      "jobId": "adzuna:5802317021",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5802317021?utm_medium=api&utm_source=9375376c",
+      "title": "Integration Software Engineer",
+      "company": "Chevron Corporation",
+      "board": "indeed",
+      "fitScore": 55,
+      "reasoning": "Bipin has 1.5 years of experience as an SDET with strong automation, API testing, and CI/CD skills, but this Integration Software Engineer role at Chevron is likely targeting mid-level software engineers focused on integration systems in the energy sector. The job description is truncated, making it difficult to assess exact requirements, but \"Integration Software Engineer\" typically requires broader software development experience beyond pure testing—including building integration pipelines, middleware, and enterprise system connectors. While Bipin's backend skills (Node.js, Express.js, GraphQL) and API expertise are relevant, his profile is heavily QA/testing-focused rather than development-focused. The energy domain may also require specific industry knowledge. The seniority appears mismatched for someone with only 1.5 years targeting a specialized engineering role at a major corporation like Chevron, which typically seeks 3-5+ years for such positions."
+    },
+    "adzuna:5802319054": {
+      "jobId": "adzuna:5802319054",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5802319054?utm_medium=api&utm_source=9375376c",
+      "title": "QA Automation Engineer",
+      "company": "NTT America, Inc.",
+      "board": "indeed",
+      "fitScore": 32,
+      "reasoning": "This is a significant seniority mismatch. The job title explicitly states \"Senior Quality Engineer / Senior QA Automation Engineer\" and mentions 8 years of experience, while Bipin has only 1.5 years as an SDET-1. Although his technical skills align well with QA automation requirements—Playwright framework design, API testing with Postman, CI/CD, load testing with k6, and modern monitoring tools—the experience gap is substantial and disqualifying for most organizations. NTT DATA is seeking a senior-level professional who can likely lead initiatives, mentor others, and handle complex architectural decisions, responsibilities that require significantly more tenure than Bipin currently possesses. The role type matches perfectly (QA Automation), and his skill stack is relevant and modern, but the 6.5-year experience deficit makes this posting inappropriate for his current career stage."
+    },
+    "adzuna:5802318724": {
+      "jobId": "adzuna:5802318724",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5802318724?utm_medium=api&utm_source=9375376c",
+      "title": "Software Engineer II Java Full stack Developer",
+      "company": "Mastercard",
+      "board": "indeed",
+      "fitScore": 35,
+      "reasoning": "This is a poor fit. The role is explicitly for a \"Java Full stack Developer\" focused on full-stack development, while Bipin is an SDET with 1.5 years of experience specializing in test automation, QA processes, and quality engineering. His tech stack centers on JavaScript/TypeScript, Playwright, k6, and testing frameworks—not Java, Spring Boot, or front-end frameworks typically required for full-stack roles. The \"Software Engineer II\" level at Mastercard typically expects 3-5 years of development experience building production features, not testing them. While Bipin has some backend exposure (Node.js, Express.js, GraphQL) and API knowledge, he lacks Java expertise and meaningful full-stack development experience. This is a fundamental role-type mismatch: the company needs a developer to build features; Bipin's career is built around ensuring quality of features others build."
+    },
+    "adzuna:5802074664": {
+      "jobId": "adzuna:5802074664",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5802074664?utm_medium=api&utm_source=9375376c",
+      "title": "Specialist - Quality Engineering",
+      "company": "LTM",
+      "board": "indeed",
+      "fitScore": 72,
+      "reasoning": "Bipin is a solid mid-level fit for this Specialist - Quality Engineering role. His 1.5 years as SDET-1 align well with the specialist-level seniority, and his core skill set—API automation (Postman, REST APIs), test framework design (Playwright with POM/fixtures), and end-to-end QA ownership—matches the job's focus on API automation and quality engineering. The primary gap is experience with Karate Framework specifically, which is the JD's stated technology stack. However, his proven ability to design scalable automation frameworks, validate REST APIs, analyze Swagger/OpenAPI specs (implied by API testing work), and create reusable utilities demonstrates transferable skills. His performance metrics (40% manual effort reduction) and hands-on CI/CD, load testing, and sprint-cycle QA ownership add significant value. The role's PAN INDIA location flexibility and specialist (not senior) level make this a realistic reach, though the Karate-specific requirement introduces moderate risk."
+    },
+    "adzuna:5802067402": {
+      "jobId": "adzuna:5802067402",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5802067402?utm_medium=api&utm_source=9375376c",
+      "title": "Test Engineer (Automation)",
+      "company": "CSM Technologies Private Limited",
+      "board": "indeed",
+      "fitScore": 72,
+      "reasoning": "Bipin is a solid match for this Test Automation Engineer role with 1.5 years of hands-on SDET experience and a strong automation foundation. The job emphasizes Selenium WebDriver with Java/JUnit/TestNG and frameworks like POM, which aligns well with Bipin's demonstrated expertise in building scalable automation frameworks using Playwright with POM, fixtures, and reusable utilities—cutting manual regression by 40%. The core testing competencies (functional, regression, framework design, data-driven approaches) map directly to the JD. However, there's a notable technology gap: the role requires Selenium + Java, while Bipin's automation stack is Playwright + JavaScript/TypeScript. This is bridgeable given the transferable skills in test automation, locators, and framework architecture, but it's a non-trivial learning curve. Seniority and role type align perfectly (junior SDET level), and Bipin's broader skills in API testing, CI/CD, and modern QA practices exceed the JD's scope, adding value. The location (Bhubaneswar) and compensation expectations (12-13 LPA vs. current 9 LPA) are reasonable."
+    },
+    "adzuna:5801819443": {
+      "jobId": "adzuna:5801819443",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801819443?utm_medium=api&utm_source=9375376c",
+      "title": "Embedded Engr I",
+      "company": "Honeywell",
+      "board": "indeed",
+      "fitScore": 35,
+      "reasoning": "This is a poor fit despite overlapping \"Test Automation Engineer\" terminology. The role is explicitly titled \"Embedded Engr I\" at Honeywell, indicating a hardware/embedded systems focus requiring low-level firmware testing, custom test fixture design, and likely C/embedded C experience. Bipin's profile is heavily software-focused (web automation with Playwright, API testing, Node.js backend, load testing with k6) with no embedded systems, hardware testing, firmware validation, or test fixture design experience. While he has strong test automation fundamentals and CI/CD knowledge that transfer conceptually, the technical domain is fundamentally different. The seniority level (Engineer I, 1.5 years experience) aligns, but the skill gap in embedded/hardware testing is critical and disqualifying."
+    },
+    "adzuna:5801813135": {
+      "jobId": "adzuna:5801813135",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801813135?utm_medium=api&utm_source=9375376c",
+      "title": "Test Engineer",
+      "company": "CleanHarbors",
+      "board": "indeed",
+      "fitScore": 35,
+      "reasoning": "This is a weak match primarily due to the extremely limited job description provided. The posting only contains company background about Clean Harbors (an environmental and industrial services company) with no technical requirements, responsibilities, or qualifications listed. Based solely on the title \"Test Engineer,\" there's fundamental uncertainty about whether this is a software testing role (which would align with Bipin's SDET background) or an engineering test role related to environmental/industrial equipment and processes (which would be a complete mismatch). Given Clean Harbors' core business in environmental services rather than software products, there's significant risk this is a hardware/environmental testing position. Without explicit mention of automation, software testing, or relevant tech stack, and given the company's non-tech industry focus, the confidence in fit is very low."
+    },
+    "adzuna:5801799043": {
+      "jobId": "adzuna:5801799043",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5801799043?utm_medium=api&utm_source=9375376c",
+      "title": "Test Automation Engineer",
+      "company": "Ford Motor",
+      "board": "indeed",
+      "fitScore": 78,
+      "reasoning": "Bipin is a strong match for this Test Automation Engineer role at Ford. He has 1.5 years of direct SDET experience with robust Playwright expertise for UI automation, which directly aligns with Ford's FCE testing stack. His hands-on work on scalable automation frameworks (POM, fixtures, reusable utilities), API testing, CI/CD integration, and regression coverage maps well to the job's focus on reliable, maintainable automated testing across UI and backend layers. The role likely targets mid-junior to mid-level engineers, and Bipin's SDET-1 seniority fits well. The primary gap is the JD's mention of Java/REST Assured for API automation—Bipin's API testing experience is predominantly with JavaScript/TypeScript (Postman, Node.js) rather than Java. However, his strong automation fundamentals, end-to-end QA ownership, performance testing with k6/Grafana, and exposure to modern practices (LLM testing, feature flags) demonstrate adaptability and breadth that Ford would value."
+    },
+    "adzuna:5801791214": {
+      "jobId": "adzuna:5801791214",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5801791214?utm_medium=api&utm_source=9375376c",
+      "title": "Engineer, Software Test Automation",
+      "company": "KLA",
+      "board": "indeed",
+      "fitScore": 78,
+      "reasoning": "Bipin Singh presents a strong match for KLA's Software Test Automation Engineer role. His 1.5 years as SDET-1 with hands-on Playwright framework development, API testing, performance testing (k6), and CI/CD integration align well with typical test automation responsibilities in semiconductor manufacturing software. The role title \"Engineer, Software Test Automation\" suggests mid-level entry requirements that his profile satisfies. His technical stack—JavaScript/TypeScript, Node.js, REST APIs, SQL, and modern observability tools (Grafana/Prometheus)—demonstrates the breadth needed for complex enterprise testing. KLA's emphasis on precision and quality in semiconductor manufacturing resonates with his experience in end-to-end QA ownership, regression automation (40% reduction), and backend validation. However, the job description is truncated, preventing full assessment of domain-specific requirements (embedded systems, hardware-software integration, or semiconductor-specific tooling). His lack of semiconductor or hardware testing experience and relatively junior tenure (1.5 years) may be minor concerns if KLA seeks candidates with deeper industry context or 3+ years experience, though the \"Engineer\" title suggests this is an early-career role."
+    },
+    "adzuna:5801777554": {
+      "jobId": "adzuna:5801777554",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801777554?utm_medium=api&utm_source=9375376c",
+      "title": "Senior Associate - Test Automation & Tools Development Engineer",
+      "company": "Jobgether",
+      "board": "indeed",
+      "fitScore": 62,
+      "reasoning": "Bipin has strong core skills aligned with the role—Playwright automation framework design, k6 performance testing, and tools development experience with Node.js/Express.js. His 1.5 years of experience and demonstrated ability to build scalable frameworks fit the \"Senior Associate\" level (typically 2-4 years), though he's slightly junior. The role emphasizes automation frameworks, performance testing, and internal tooling—all areas where he has proven contributions (40% manual effort reduction, load/stress testing with Grafana/Prometheus). However, the \"Senior Associate\" title suggests they may prefer someone with 2-3+ years, and the job description mentions \"advanced testing solutions\" and \"security testing,\" where his profile shows less explicit depth. His salary expectation (12-13 LPA) aligns reasonably with the level. Overall, a solid mid-level match with minor seniority and breadth gaps."
+    },
+    "adzuna:5801752945": {
+      "jobId": "adzuna:5801752945",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801752945?utm_medium=api&utm_source=9375376c",
+      "title": "Test Automation Engineer",
+      "company": "Accenture",
+      "board": "indeed",
+      "fitScore": 35,
+      "reasoning": "This is a poor fit primarily due to a critical experience gap: the role requires a minimum of 3 years of experience, while Bipin has only 1.5 years. Additionally, the JD explicitly calls for \"Microsoft Azure Data Services\" as the must-have skill, which is completely absent from Bipin's profile. His expertise centers on Playwright automation, k6 load testing, and modern QA practices—none of which align with Azure-centric data testing. While his automation engineering fundamentals (CI/CD, API testing, test frameworks) are solid and transferable, the lack of cloud platform experience (Azure specifically) and the 50% shortfall in required tenure create significant barriers. The role appears to focus on quality engineering within Azure data pipelines, a domain Bipin hasn't worked in. Given the hard requirement mismatch and experience deficit, this represents a stretch opportunity with low probability of selection."
+    },
+    "adzuna:5801750894": {
+      "jobId": "adzuna:5801750894",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801750894?utm_medium=api&utm_source=9375376c",
+      "title": "Lead Software Engineer, Fullstack",
+      "company": "ValGenesis",
+      "board": "indeed",
+      "fitScore": 22,
+      "reasoning": "This is a poor fit. The role is \"Lead Software Engineer, Fullstack\" which signals a senior engineering position requiring substantial hands-on development experience building production features across frontend and backend stacks. Bipin has 1.5 years as SDET-1, focused primarily on test automation, QA processes, and validation—not full-stack software development. While he has some backend exposure (Node.js, Express.js, GraphQL), his experience is test-centric rather than feature-development focused. A \"Lead\" title typically requires 5+ years of engineering experience with demonstrated technical leadership, architecture decisions, and mentoring—far beyond his junior SDET background. The job function mismatch (fullstack development vs. QA/testing) and seniority gap (lead vs. 1.5 years) make this unsuitable."
+    },
+    "adzuna:5801739051": {
+      "jobId": "adzuna:5801739051",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801739051?utm_medium=api&utm_source=9375376c",
+      "title": "Software Engineer",
+      "company": "Microsoft",
+      "board": "indeed",
+      "fitScore": 58,
+      "reasoning": "Bipin has 1.5 years of solid SDET experience with strong automation, API testing, and CI/CD skills that align with typical Software Engineer responsibilities at Microsoft. His hands-on work with modern tech stacks (Playwright, k6, Node.js, GraphQL) and AI/LLM testing demonstrates technical versatility. However, the role is titled \"Software Engineer\" at Microsoft—a company known for rigorous SDE positions that typically emphasize broader software development, system design, and coding proficiency beyond QA/test automation. While Bipin lists SDE-1 as a target role, his experience is heavily QA-focused with limited evidence of production feature development, algorithm work, or large-scale system design. The vague job description doesn't clarify seniority or specific technical requirements, making it hard to assess exact fit, but Microsoft SDE roles generally expect stronger core development background than pure SDET experience provides."
+    },
+    "adzuna:5801731333": {
+      "jobId": "adzuna:5801731333",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801731333?utm_medium=api&utm_source=9375376c",
+      "title": "Software Engineer, Infrastructure",
+      "company": "Jobgether",
+      "board": "indeed",
+      "fitScore": 35,
+      "reasoning": "Bipin is a 1.5-year SDET with strong automation and testing expertise (Playwright, k6, API testing, CI/CD) but lacks the core infrastructure engineering skills this role demands. The job focuses on designing foundational infrastructure for large-scale data platforms, high-performance computing, automated deployments, and enterprise AI workloads—requiring deep knowledge of cloud platforms (AWS/GCP/Azure), infrastructure-as-code (Terraform, Kubernetes), distributed systems, and backend scalability. While Bipin has Node.js/Express backend exposure and CI/CD familiarity, his experience centers on quality assurance, test frameworks, and monitoring QA metrics rather than building production infrastructure, orchestration layers, or data platform architecture. The seniority mismatch is significant: infrastructure roles typically require 3-5+ years with systems programming and DevOps depth. This is a different discipline from SDET work."
+    },
+    "adzuna:5801720880": {
+      "jobId": "adzuna:5801720880",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5801720880?utm_medium=api&utm_source=9375376c",
+      "title": "Associate Engineer - (Manual & Automation Testing) - Hybrid",
+      "company": "RTX",
+      "board": "indeed",
+      "fitScore": 88,
+      "reasoning": "Bipin is an excellent match for this Associate Engineer role at RTX. His 1.5 years of SDET experience falls squarely within the required 1-3 years range, and his B.Tech in Electronics Engineering meets the educational criteria. The position explicitly calls for manual and automation testing for web applications—Bipin's core strength. He has hands-on Playwright automation expertise with a scalable framework that reduced regression effort by 40%, plus robust API testing skills via Postman and REST APIs. His experience spans the full QA lifecycle including test planning, execution, regression, and defect triage across sprint cycles. The hybrid role type aligns with modern work expectations, and RTX's aerospace/defense domain may value his systematic SDLC/STLC rigor. The only minor gap is the lack of explicit \"manual testing\" callouts in his profile, though his end-to-end QA ownership implies manual validation. His compensation expectations (12-13 LPA) are reasonable for an Associate Engineer role at a multinational like RTX."
+    },
+    "adzuna:5801704727": {
+      "jobId": "adzuna:5801704727",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5801704727?utm_medium=api&utm_source=9375376c",
+      "title": "Associate Software Test Automation Engineer",
+      "company": "Wolters Kluwer",
+      "board": "indeed",
+      "fitScore": 88,
+      "reasoning": "Bipin Singh is an excellent fit for this Associate Software Test Automation Engineer role at Wolters Kluwer. With 1.5 years as an SDET-1, he aligns perfectly with the \"Associate\" level seniority that emphasizes learning and growth alongside experienced team members. His core competencies—Playwright automation framework design with POM patterns, API testing with Postman, CI/CD integration, and full SDLC/STLC ownership—directly match the responsibilities of developing and executing automated test cases. The 40% reduction in manual regression effort demonstrates quantifiable impact in test automation. His exposure to modern tooling (k6, Grafana, GraphQL) and AI-driven testing shows adaptability beyond basic QA. The role appears to be an entry-to-mid level position perfect for someone transitioning from SDET-1 to SDET-2, and his target compensation range aligns with typical Indian market rates for this progression. Minor gap is the job description being truncated, but based on the title and level, this is a strong match."
+    },
+    "adzuna:5801459730": {
+      "jobId": "adzuna:5801459730",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5801459730?utm_medium=api&utm_source=9375376c",
+      "title": "QA/Test Automation Engineer",
+      "company": "Match Point Solutions",
+      "board": "indeed",
+      "fitScore": 88,
+      "reasoning": "Bipin is an excellent fit for this QA/Test Automation Engineer role at MatchPoint Solutions. With 1.5 years as an SDET-1, he matches the seniority level typically expected for this position. His technical stack aligns exceptionally well—Playwright automation framework design, API testing with Postman, load testing with k6 plus monitoring via Grafana/Prometheus/Loki, and full-stack QA ownership across sprint cycles. The company works with top-tier tech clients (Uber, Netflix, Google) where modern QA practices like AI testing, CI/CD integration, and performance engineering are highly valued, all of which Bipin demonstrates. His 40% reduction in manual regression effort and end-to-end ownership of release cycles show both impact and maturity. The only minor consideration is that the JD is brief and doesn't specify exact years of experience required, but his skill depth and proven automation leadership make him competitive. Compensation expectations (12-13 LPA) are reasonable for a mid-level SDET role at a growing services firm."
+    },
+    "adzuna:5802317384": {
+      "jobId": "adzuna:5802317384",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5802317384?utm_medium=api&utm_source=9375376c",
+      "title": "QA Automation Engineer",
+      "company": "Eaton Corporation",
+      "board": "indeed",
+      "fitScore": 72,
+      "reasoning": "Bipin is a solid match for this QA Automation Engineer role at Eaton. His 1.5 years as SDET-1 align well with a mid-level QA automation position, and his technical stack—Playwright framework design, API testing with Postman, CI/CD integration, and backend validation using Node.js and SQL—directly addresses typical QA automation requirements. His demonstrated impact (40% reduction in manual regression, end-to-end ownership of sprint QA cycles, k6 load testing with observability tools) shows execution maturity beyond his tenure. The primary gap is the incomplete job description, which limits precise skill mapping, though the mobility/eMobility domain at Eaton may require embedded systems or automotive-specific testing knowledge not reflected in his profile. His expectation of 12-13 LPA is reasonable for Pune market standards at this level. Overall, strong technical fundamentals and proven automation ownership make him a competitive candidate."
+    },
+    "adzuna:5802316239": {
+      "jobId": "adzuna:5802316239",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5802316239?utm_medium=api&utm_source=9375376c",
+      "title": "Enterprise Apps QA 169224",
+      "company": "ADP",
+      "board": "indeed",
+      "fitScore": 45,
+      "reasoning": "Bipin has strong technical alignment with the role's requirements—Playwright expertise, TypeScript proficiency, API testing experience, SQL skills, and proven automation framework development. His hands-on experience with UI automation tools, database validation, and CI/CD processes directly matches the JD's technical stack. However, the critical gap is experience: ADP requires 3-6 years, while Bipin has only 1.5 years as SDET-1. This significant seniority mismatch is the primary barrier, as the role appears designed for mid-level engineers. His technical accomplishments (40% reduction in regression effort, scalable Playwright framework with POM, k6 load testing) demonstrate maturity beyond his tenure, but the explicit minimum requirement makes this a reach position. The role type is perfectly aligned, and compensation expectations are reasonable, but the experience gap warrants a below-threshold score despite strong skill compatibility."
+    },
+    "adzuna:5802201558": {
+      "jobId": "adzuna:5802201558",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5802201558?utm_medium=api&utm_source=9375376c",
+      "title": "QA – Automation Engineer, AS",
+      "company": "Deutsche Bank",
+      "board": "indeed",
+      "fitScore": 72,
+      "reasoning": "Bipin is a solid match for this QA Automation Engineer role at Deutsche Bank. With 1.5 years as an SDET-1, he brings hands-on experience in test automation (Playwright framework with POM), API testing (Postman, REST), and performance testing (k6, Grafana). His skills align well with typical automation engineering requirements: JavaScript/TypeScript, CI/CD, SQL/MongoDB, and end-to-end QA ownership across sprint cycles. The role appears mid-junior level, fitting his SDET-1 background. However, the job description is vague about specific tech stack and requirements, making it harder to assess deep alignment. His modern QA exposure (AI testing, LLM testing) and proven impact (40% reduction in manual effort, load testing expertise) strengthen his candidacy. The primary gap is limited experience (1.5 years vs. potentially 2-3 years preferred for automation engineers at a global bank), though his breadth across automation, performance, and backend validation compensates well."
+    },
+    "adzuna:5802067699": {
+      "jobId": "adzuna:5802067699",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5802067699?utm_medium=api&utm_source=9375376c",
+      "title": "Automation Test Architect",
+      "company": "Cubic Transportation Systems India Private Limited",
+      "board": "indeed",
+      "fitScore": 32,
+      "reasoning": "The role title \"Automation Test Architect\" signals a senior-level position requiring extensive experience in designing enterprise-wide automation strategies, leading teams, and providing architectural guidance across multiple projects. Bipin has only 1.5 years of experience as an SDET-1, which places him at a junior-to-mid level, far below the architect-level seniority this role demands. While his technical skills in Playwright automation, API testing, k6 load testing, and CI/CD align well with automation engineering fundamentals, he lacks the depth of experience, leadership track record, and strategic architectural thinking expected of someone who would define frameworks for an entire organization. The gap between SDET-1 and Test Architect is typically 5-8 years of progressive experience, making this a significant mismatch in seniority despite decent skill overlap."
+    },
+    "adzuna:5801820429": {
+      "jobId": "adzuna:5801820429",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5801820429?utm_medium=api&utm_source=9375376c",
+      "title": "QA - Automation Engineers",
+      "company": "Valtech",
+      "board": "indeed",
+      "fitScore": 78,
+      "reasoning": "Bipin is a solid match for this QA Automation Engineer role at Valtech. With 1.5 years as SDET-1, he brings hands-on experience in test automation frameworks (Playwright with POM pattern), API testing, load testing (k6), and CI/CD—all core requirements for a QA automation position. His demonstrated impact (40% reduction in manual regression effort, end-to-end QA ownership across sprints) aligns well with the expectations for a junior-to-mid level automation role. The tech stack (JavaScript/TypeScript, REST APIs, Node.js, monitoring tools) is highly relevant for a digital experience company like Valtech. The job posting lacks detailed requirements, but given the \"Automation Engineers\" plural title and mention of growth opportunities, it likely targets junior to mid-level engineers where Bipin fits well. Minor gaps include the lack of specific experience with enterprise-scale clients or any Valtech-specific tools, and the JD's vagueness makes it harder to assess exact seniority expectations, though his profile suggests readiness for SDET-1/2 or mid-level QA automation roles."
+    },
+    "adzuna:5801808544": {
+      "jobId": "adzuna:5801808544",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801808544?utm_medium=api&utm_source=9375376c",
+      "title": "QA Architect",
+      "company": "EXL",
+      "board": "indeed",
+      "fitScore": 28,
+      "reasoning": "This is a severe seniority mismatch. The role is titled \"QA Architect\" and seeks a \"seasoned Quality Lead\" with deep expertise in Contact Center/CX solutions, Conversational AI, Agent Assist, and CCaaS platforms—all enterprise-level specializations that typically require 8-12+ years of experience. Bipin has 1.5 years as an SDET-1 with solid fundamentals in test automation (Playwright), load testing (k6), and API validation, but zero demonstrated experience in Contact Center technologies, Conversational AI platforms, or the architectural/leadership responsibilities this role demands. The job requires owning QA governance, driving test strategy at scale, and client-facing collaboration—responsibilities far beyond an SDET-1's scope. While his AI testing exposure and automation skills align directionally, the gap in domain expertise (CCaaS, Agent Assist) and leadership/architecture experience is disqualifying. This is an architect/lead position; Bipin is an early-career engineer."
+    },
+    "adzuna:5801764997": {
+      "jobId": "adzuna:5801764997",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5801764997?utm_medium=api&utm_source=9375376c",
+      "title": "AVP - QA Automation Engineer - IB Tech & CRM/ Analytics",
+      "company": "Jefferies Financial Group",
+      "board": "indeed",
+      "fitScore": 68,
+      "reasoning": "Bipin presents a solid mid-level match for this AVP-titled QA Automation role. His 1.5 years of hands-on SDET experience aligns well with core technical requirements: Playwright automation (he's built a scalable POM framework), TypeScript/JavaScript proficiency, REST API testing with Postman, and exposure to CI/CD pipelines. The JD emphasizes Playwright/Selenium with TypeScript/Java, service-level automation (RestAssured/Java), and microservices testing—Bipin covers Playwright/TypeScript strongly and has API automation experience, though he lacks RestAssured and Java-specific expertise. His backend exposure (Node.js, Express.js, GraphQL) demonstrates understanding of service architectures, but not the Java Spring Boot stack mentioned. The \"AVP\" title typically signals 5-8 years seniority in financial services, creating a notable experience gap. However, if Jefferies interprets this as a mid-level automation engineer role (common in large financial firms), Bipin's automation framework ownership, load testing with k6/Grafana, and end-to-end QA lifecycle management position him as a capable contributor who can grow into the role."
+    },
+    "adzuna:5801698774": {
+      "jobId": "adzuna:5801698774",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801698774?utm_medium=api&utm_source=9375376c",
+      "title": "Specialist, QA Engineer, Data Engineering",
+      "company": "MSD",
+      "board": "indeed",
+      "fitScore": 45,
+      "reasoning": "Bipin has solid foundational QA and automation skills with 1.5 years of experience as an SDET-1, demonstrating proficiency in Playwright, API testing, CI/CD, and databases (MongoDB, SQL). However, the role title \"Specialist, QA Engineer, Data Engineering\" at MSD strongly suggests a focus on data engineering QA rather than general application testing. The job description is truncated but the \"Data Engineering\" designation indicates the position likely requires expertise in data pipeline testing, ETL validation, data quality frameworks, and big data technologies (Spark, Hadoop, Airflow, etc.)—none of which appear in Bipin's profile. While his SQL knowledge and backend API validation experience provide some tangential relevance, the lack of data engineering-specific QA experience and the specialist-level seniority (typically 3-5 years) create a significant mismatch. The role also sits within a large biopharma enterprise, which may expect domain knowledge or regulatory/compliance testing experience that Bipin hasn't demonstrated."
+    },
+    "adzuna:5801356631": {
+      "jobId": "adzuna:5801356631",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5801356631?utm_medium=api&utm_source=9375376c",
+      "title": "Remote: Recruiter for IT consulting firm (UK shift) serving US and India clients",
+      "company": "TekPioneers",
+      "board": "indeed",
+      "fitScore": 8,
+      "reasoning": "This is a severe function mismatch. Bipin is an SDET with 1.5 years of hands-on experience in test automation, API testing, load testing, and CI/CD—deeply technical engineering work. The job posting is for a Recruiter role in an IT consulting firm, which requires sourcing, screening, and hiring technical talent, not building or testing software. While Bipin understands technical terminology and might empathize with engineering candidates, he has zero demonstrated recruiting, talent acquisition, or HR experience. His career trajectory, skills, compensation expectations, and target roles all point to continuing as an SDET or Software Engineer, not pivoting into a non-technical HR/recruiting function. The only marginal overlap is familiarity with technical domains that recruiters need to understand, but that does not constitute qualifications for end-to-end recruitment ownership."
     }
   }
 }
