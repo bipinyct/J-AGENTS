@@ -1456,6 +1456,26 @@
       "board": "indeed",
       "fitScore": 62,
       "reasoning": "Bipin has solid foundational skills in performance testing (k6, Grafana, Prometheus, Loki) and QA automation (Playwright framework, API testing) that align with the core technical requirements. His hands-on experience with load, stress, spike, and soak testing directly matches the performance engineering focus. However, the \"Senior\" designation and emphasis on \"architecting\" reusable frameworks across a cloud-native platform suggests 3-5+ years of experience, while Bipin has only 1.5 years. He demonstrates ownership of end-to-end QA cycles and measurable impact (40% manual effort reduction), but lacks the strategic depth, cross-team leadership, and extensive production-scale performance optimization experience typically expected at this level. The role is a reach position—doable for a high-performing junior engineer willing to grow rapidly, but not a perfect seniority match."
+    },
+    "adzuna:5804492742": {
+      "jobId": "adzuna:5804492742",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5804492742?utm_medium=api&utm_source=9375376c",
+      "title": "Software Development Engineer in Test (SDET)",
+      "company": "Weekday AI",
+      "board": "indeed",
+      "fitScore": 35,
+      "reasoning": "Bipin has strong foundational SDET skills with 1.5 years of experience building Playwright automation frameworks, performing load testing with k6, and owning end-to-end QA across sprints. His technical stack (JavaScript/TypeScript, Playwright, API testing, CI/CD, modern AI testing exposure) aligns well with typical SDET requirements. However, the job posting explicitly requires a minimum of 4 years of experience and offers INR 23-42 LPA compensation—more than double his current 9 LPA and significantly above his 12-13 LPA expectation. This represents a 2.5-year experience gap and a clear seniority mismatch. While his skills demonstrate he could grow into this role, he does not currently meet the stated minimum experience threshold, making him a high-risk candidate for this particular opening despite his relevant technical competencies."
+    },
+    "adzuna:5804122116": {
+      "jobId": "adzuna:5804122116",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5804122116?utm_medium=api&utm_source=9375376c",
+      "title": "Senior SDET Engineer",
+      "company": "Experian",
+      "board": "indeed",
+      "fitScore": 55,
+      "reasoning": "Bipin has strong foundational SDET skills with 1.5 years of hands-on experience in test automation (Playwright), API testing, performance testing (k6, Grafana), and CI/CD—all relevant to a cloud modernization initiative. His technical stack (JavaScript/TypeScript, Node.js, SQL, MongoDB) and end-to-end QA ownership align well with the core responsibilities. However, the \"Senior SDET Engineer\" title typically expects 3-5+ years of experience, and Bipin is early-career (SDET-1 level). The job posting hints at significant cloud transformation work at scale, which may require deeper architectural maturity and leadership experience he hasn't yet demonstrated. While his automation framework design and 40% regression efficiency gain show initiative, the seniority gap is a material risk. He's a solid fit for a mid-level or SDET-2 role but stretches for a senior position."
     }
   }
 }
