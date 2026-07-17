@@ -1406,6 +1406,56 @@
       "board": "indeed",
       "fitScore": 25,
       "reasoning": "This is a severe experience mismatch. Cisco is explicitly seeking 8-11 years of experience for a QA Engineer role focused on automation and networking at the infrastructure/distributed systems level. Bipin has only 1.5 years of experience as an SDET-1, making him drastically underqualified for this senior position. While his automation skills (Playwright, k6, API testing) and CI/CD knowledge are relevant to QA automation generally, the role demands deep networking expertise, large-scale distributed systems knowledge, and likely low-level protocol testing—areas not evident in his profile. The seniority gap alone (1.5 vs 8-11 years) disqualifies him from serious consideration. His current compensation expectation (12-13 LPA) is also well below what an 8-11 year Cisco role would command, further highlighting the mismatch."
+    },
+    "adzuna:5804445393": {
+      "jobId": "adzuna:5804445393",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5804445393?utm_medium=api&utm_source=9375376c",
+      "title": "Senior SDET",
+      "company": "Cognizant",
+      "board": "indeed",
+      "fitScore": 52,
+      "reasoning": "Bipin has solid technical alignment with the Senior SDET role—he possesses hands-on experience with Playwright, Postman, TypeScript, API testing, CI/CD (GitHub), and has designed scalable automation frameworks. His expertise in test automation, API validation, load testing with k6, and end-to-end QA ownership directly maps to the job's core requirements. However, the primary mismatch is seniority: Bipin has only 1.5 years of experience while the role is explicitly titled \"Senior SDET,\" which typically demands 4-6+ years. Additionally, the JD mentions tools like Jenkins, Azure DevOps, RestAssured, and Selenium—Bipin lists Playwright but not Selenium or RestAssured, and his CI/CD experience is GitHub-focused rather than Jenkins/Azure DevOps. The domain (Medicare/Medicaid claims) is also specialized and Bipin shows no healthcare or compliance-heavy background. While his skills are relevant and growing, the experience gap and missing senior-level depth significantly limit his fit for a senior-tier role."
+    },
+    "adzuna:5804445119": {
+      "jobId": "adzuna:5804445119",
+      "status": "manual_review",
+      "url": "https://www.adzuna.in/details/5804445119?utm_medium=api&utm_source=9375376c",
+      "title": "Engineer (India Office)",
+      "company": "WESCO",
+      "board": "indeed",
+      "fitScore": 82,
+      "reasoning": "Bipin is a strong match for this Developer - Software Tester role at WESCO. With 1.5 years as SDET-1, he brings precisely the functional testing and test automation experience the role demands. His proven expertise in programming test automation frameworks using Playwright (POM pattern, fixtures, reusable utilities) and CI/CD integration directly aligns with the job's requirement to \"program test automation frameworks (CI/CD)\" and \"develop and execute test automation scripts.\" The 40% reduction in manual regression effort demonstrates measurable value delivery, which the JD explicitly requires. His technical stack (JavaScript/TypeScript, Node.js, API testing, SQL validation) supports both automation development and backend testing needs. The role appears mid-level (Engineer title, not Senior), making his SDET-1 experience with 1.5 years appropriate. Minor gaps include the job description being truncated (limiting full assessment) and WESCO potentially seeking someone with slightly more experience, though the core competencies align exceptionally well."
+    },
+    "adzuna:5804445674": {
+      "jobId": "adzuna:5804445674",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5804445674?utm_medium=api&utm_source=9375376c",
+      "title": "Systems Engr I",
+      "company": "Honeywell",
+      "board": "indeed",
+      "fitScore": 15,
+      "reasoning": "This is a very poor match. The Honeywell Systems Engineer I role is for industrial control systems (DCS/ICSS) hardware and application software engineering—specifically focused on distributed control systems in oil & gas, chemical plants, or similar industrial environments. This requires hands-on experience with physical control system hardware, PLC/DCS programming, industrial automation protocols, and on-site customer deployment (30-70% travel). Bipin is a software test automation engineer with expertise in web/API testing using Playwright, k6, and modern QA tools. There is virtually zero overlap: he has no DCS, SCADA, industrial controls, or embedded systems experience. The role types are fundamentally different—one is industrial systems engineering, the other is software QA. This is a domain and function mismatch."
+    },
+    "adzuna:5804445228": {
+      "jobId": "adzuna:5804445228",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5804445228?utm_medium=api&utm_source=9375376c",
+      "title": "Senior Software Test Engineer(QA Lead)",
+      "company": "Caterpillar, Inc.",
+      "board": "indeed",
+      "fitScore": 35,
+      "reasoning": "Bipin has only 1.5 years of experience as an SDET-1, while this position is explicitly titled \"Senior Software Test Engineer (QA Lead)\" — a leadership role that typically requires 5+ years of experience and demonstrated people/project management skills. While his technical QA skills (Playwright automation, k6 load testing, API validation, CI/CD) are solid and relevant to any test engineering role, he lacks the seniority, leadership experience, and strategic oversight expected of a QA Lead at a global enterprise like Caterpillar. The role likely involves mentoring junior engineers, defining test strategies across multiple teams, and driving quality initiatives at scale—responsibilities far beyond his current junior-level scope. His core SDET competencies align with the technical work, but the seniority mismatch is severe."
+    },
+    "adzuna:5802288922": {
+      "jobId": "adzuna:5802288922",
+      "status": "skipped_lowfit",
+      "url": "https://www.adzuna.in/details/5802288922?utm_medium=api&utm_source=9375376c",
+      "title": "Sr QA Automation Engineer",
+      "company": "Smart Ship Hub",
+      "board": "indeed",
+      "fitScore": 62,
+      "reasoning": "Bipin has solid foundational skills in performance testing (k6, Grafana, Prometheus, Loki) and QA automation (Playwright framework, API testing) that align with the core technical requirements. His hands-on experience with load, stress, spike, and soak testing directly matches the performance engineering focus. However, the \"Senior\" designation and emphasis on \"architecting\" reusable frameworks across a cloud-native platform suggests 3-5+ years of experience, while Bipin has only 1.5 years. He demonstrates ownership of end-to-end QA cycles and measurable impact (40% manual effort reduction), but lacks the strategic depth, cross-team leadership, and extensive production-scale performance optimization experience typically expected at this level. The role is a reach position—doable for a high-performing junior engineer willing to grow rapidly, but not a perfect seniority match."
     }
   }
 }
