@@ -25644,6 +25644,30 @@
       "title": "Lead QA Engineer",
       "company": "Qualys",
       "board": "indeed"
+    },
+    "adzuna:5912218274": {
+      "jobId": "adzuna:5912218274",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5912218274?utm_medium=api&utm_source=9375376c",
+      "title": "Senior Software Engineer in Test (Python)",
+      "company": "NetApp",
+      "board": "indeed"
+    },
+    "adzuna:5912051749": {
+      "jobId": "adzuna:5912051749",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5912051749?utm_medium=api&utm_source=9375376c",
+      "title": "Test Automation Engineer (Playwright)",
+      "company": "Infosys Limited",
+      "board": "indeed"
+    },
+    "adzuna:5911377688": {
+      "jobId": "adzuna:5911377688",
+      "status": "discovered",
+      "url": "https://www.adzuna.in/details/5911377688?utm_medium=api&utm_source=9375376c",
+      "title": "AI QA Engineer",
+      "company": "Channel Fusion",
+      "board": "indeed"
     }
   }
 }
